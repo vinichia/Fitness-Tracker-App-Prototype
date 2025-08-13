@@ -1,0 +1,3 @@
+# Fitness-Tracker-App-Prototype
+This is a Fitness Tracker App Prototype that I made for a college project. It's a simple prototype, but it has some really nice features. Maybe someday I or someone else will continue the project.
+This Fitness Tracker App Prototype lets users register exercises by entering the name, duration, calories burned, and day of the week. It allows users to view daily reports showing total exercise time and calories burned, calculate Body Mass Index (BMI) with health status feedback, and set as well as monitor weekly calorie-burning goals. Additionally, the app provides motivational phrases to encourage workouts, shows the average calories burned per exercise, and visualizes calories burned using a simple bar code display.
